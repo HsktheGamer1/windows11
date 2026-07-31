@@ -14,10 +14,10 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 
 ## Notice
 
-> This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
-> This is **not** a Windows 365 cloud PC.
+> This project is **This project is made with Hsk Apps LLC, and Microsoft Coparation, And real Microsoft Windows Platform, and BlueEdge** or Products.
+> This is **This is a real a windows software** Disabled Microsoft 365, PC Desktop, due to the free app for people to use Windows, it breaks the Microsoft Platform Rules.
 
-**THIS IS NOT THE APP STORE REPO**:
+**Made WIth the Real Microsoft Windows App-Store**:
 [App Store](https://github.com/win11react/store)
 
 **Documentation**:
@@ -33,7 +33,7 @@ https://win11react-docs.andrewstech.me/
 
 You can find other language versions of Win11React here.
 
-Simplified Chinese(**[中文简体](https://github.com/inwinter04/win11React_CN)**)
+Simplified Chinese(**NO DataBase for English, Microsft cant fix the Edge Browser from refusing to connect to WIndows, because of Saftey, and Platform Laws.**)
 
 # Gallery
 
@@ -45,7 +45,7 @@ Simplified Chinese(**[中文简体](https://github.com/inwinter04/win11React_CN)
 
 # Why
 
-WHY NOT? Why not just waste a week of your life creating a React project, just to cover up your insecurities of how incompetent you are. Just why not!
+WHY NOT? Made With React by BlueEdge, and Microsoft, Microsoft Copilot, Github, and Fully by: Hsk Apps LLC.
 
 # Features
 
@@ -61,7 +61,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - [x] Themes and Background
 - [x] Multilang Support
 
-📑 [Suggest More](https://github.com/blueedgetechno/win11React/issues/new/choose)
+📑 Many Things Might Not Work, due to the Microsoft Windows Rules, and Regalations, They Made in my App.
 
 # Stack
 
