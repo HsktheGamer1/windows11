@@ -1,7 +1,7 @@
 {
-  "name": "win11react",
-  "description": "Win11 made in React",
-  "repository": "https://github.com/blueedgetechno/win11React",
+  "name": "Windows 11",
+  "description": "Made By: Hsk Apps LLC, and Microsoft Coparation.",
+  "repository": "https://github.com/HsktheGamer1/windows11",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
